@@ -1,4 +1,4 @@
-✨ **Computer Vision Engineer en devenir** ✨
+✨ **AI Engineer en devenir** ✨
 
 - 👯 Recherche un stage de 6 mois, pouvant commencer en Juillet
 - 🔭 Actuellement en fin de formation MS Intelligence Artificiel à Télécom Paris
