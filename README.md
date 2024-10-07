@@ -1,7 +1,7 @@
-✨ **AI Engineer en devenir** ✨
+✨ **AI Engineer** ✨
 
-- 👯 Recherche un stage de 6 mois, pouvant commencer en Juillet
-- 🔭 Actuellement en fin de formation MS Intelligence Artificiel à Télécom Paris
+- 👯 Ouvert à des opportunités IA / Computer Vision
+- 🔭 MS Intelligence Artificielle à Télécom Paris
 - 🌱 Compétent en Deep learning, appliqué à la Computer Vision, mais aussi NLP et robotique
 - 💬 Contactez moi pour discuter de vos projets ML/DL/CV/NLP/RL et autres joyeusetés
 - 📫 [LinkedIn](https://www.linkedin.com/in/joffreyma/) ou [mail](ma.joffrey@gmail.com) 
