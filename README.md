@@ -1,6 +1,6 @@
 ✨ **AI Engineer** ✨
 
-- 👯 Ouvert à des opportunités IA / Computer Vision
+- 👯 Ouvert à des opportunités IA / NLP / Computer Vision
 - 🔭 MS Intelligence Artificielle à Télécom Paris
 - 🌱 Compétent en Deep learning, appliqué à la Computer Vision, mais aussi NLP et robotique
 - 💬 Contactez moi pour discuter de vos projets ML/DL/CV/NLP/RL et autres joyeusetés
